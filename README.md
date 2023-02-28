@@ -7,7 +7,7 @@
 - 👯 Me encantaría colaborar en algún proyecto chulo que incluya Linux🐧 de por en medio. 
 - 🤔 Estoy viendo de ayudar a la comunidad con mis trabajos.
 - 💬 Preguntame sobre lo que quieras. Otra cosa es que sepa responderte 😝.
-- 📫 Me puedes encontrar por aquí: [Mi Github](https://github.s3ll4rd0.io)
+- 📫 Me puedes encontrar por aquí: [Mi Github](https://s3ll4rd0.github.io/)
 - 👨‍💻 Y aquí puedes ver todo mi trabajo, a ver si te es útil. 👇👇👇
 
 
